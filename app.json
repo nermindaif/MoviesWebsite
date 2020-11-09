@@ -1,0 +1,12 @@
+{
+  "name": "MoviesWebsite",
+  "displayName": "MoviesWebsite",
+  "expo": {
+    "name": "MoviesWebsite",
+    "slug": "MoviesWebsite",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
