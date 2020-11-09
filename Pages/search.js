@@ -7,7 +7,7 @@ import {Link} from "react-router-dom";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { fas } from '@fortawesome/free-solid-svg-icons'
-import { RFPercentage, RFValue } from "react-native-responsive-fontsize";
+// import { RFPercentage, RFValue } from "react-native-responsive-fontsize";
 
 library.add(fas);
 async function fetchMovies(){
